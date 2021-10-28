@@ -20,12 +20,6 @@
                 "altText": ""
             },
             {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog",
-                "altText": ""
-            },
-            {
                 "label": "Learn more",
                 "altText": "Learn more",
                 "url": "/",
@@ -35,6 +29,12 @@
                 "style": "secondary",
                 "elementId": "",
                 "type": "Button"
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "url": "/blog",
+                "altText": ""
             },
             {
                 "type": "Link",
